@@ -1,6 +1,6 @@
 {
-  "version": "0.0.0",
   "name": "language-avs",
+  "version": "0.0.0",
   "description": "Atom language support for AVS",
   "repository": {
     "type": "git",
