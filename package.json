@@ -1,15 +1,14 @@
 {
-  "version": "0.45.0",
-  "name": "language-c",
-  "description": "Atom language support for C/C++",
-  "homepage": "https://atom.github.io/language-c",
+  "version": "0.1.0",
+  "name": "language-avs",
+  "description": "Atom language support for AVS",
   "repository": {
     "type": "git",
-    "url": "https://github.com/atom/language-c.git"
+    "url": "https://github.com/atom/language-avs.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/atom/language-c/issues"
+    "url": "https://github.com/atom/language-avs/issues"
   },
   "engines": {
     "atom": "*",
