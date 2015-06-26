@@ -4,11 +4,11 @@
   "description": "Atom language support for AVS",
   "repository": {
     "type": "git",
-    "url": "https://github.com/atom/language-avs.git"
+    "url": "https://github.com/batjko/language-avs.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/atom/language-avs/issues"
+    "url": "https://github.com/batjko/language-avs/issues"
   },
   "engines": {
     "atom": "*",
