@@ -21,11 +21,5 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 --------------------------------------------------------------------
 
-This package was derived from a TextMate bundle located at
-https://github.com/textmate/c.tmbundle and distributed under the following
-license, located in `README.mdown`:
+This package was derived from the core Atom language package for Language-C, which is available as part of the Atom editor, under the above MIT license.
 
-Permission to copy, use, modify, sell and distribute this
-software is granted. This software is provided "as is" without
-express or implied warranty, and with no claim as to its
-suitability for any purpose.
