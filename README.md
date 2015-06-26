@@ -1,6 +1,6 @@
 # Openlink AVS language support in Atom [![Build Status](https://travis-ci.org/atom/language-c.svg?branch=master)](https://travis-ci.org/atom/language-c)
 
-Adds syntax highlighting and snippets to C/C++ files in Atom.
+Adds syntax highlighting and snippets to AVS `.mls` files in Atom.
 
 Forked from the [Language-C](http://github.com/atom/language-c) package.
 
