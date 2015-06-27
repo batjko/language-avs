@@ -7,7 +7,7 @@ describe 'Language-AVS', ->
     waitsForPromise ->
       atom.packages.activatePackage('language-avs')
 
-  describe "AVS", ->
+  describe "MLS", ->
     beforeEach ->
       grammar = atom.grammars.grammarForScopeName('source.mls')
 

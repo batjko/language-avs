@@ -22,8 +22,8 @@ describe 'Language-AVS', ->
         }
       '''
 
-      expect(lines[0][0]).toEqual value: 'int', scopes: ["source.avs", "storage.type.mls"]
-      expect(lines[0][2]).toEqual value: 'something', scopes: ["source.mls", "meta.function.mls", "entity.name.function.mls"]
+      expect(lines[0][0]).toEqual value: 'int', scopes: ["source.avs", "storage.type.avs"]
+      expect(lines[0][2]).toEqual value: 'something', scopes: ["source.avs", "meta.function.avs", "entity.name.function.avs"]
 
     describe "indentation", ->
       editor = null
